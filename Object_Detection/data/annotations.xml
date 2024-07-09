@@ -33,15 +33,8 @@
       </assignee>
       <labels>
         <label>
-          <name>camel</name>
+          <name>nariz</name>
           <color>#60c080</color>
-          <type>any</type>
-          <attributes>
-          </attributes>
-        </label>
-        <label>
-          <name>bird</name>
-          <color>#404040</color>
           <type>any</type>
           <attributes>
           </attributes>
@@ -50,24 +43,8 @@
     </task>
     <dumped>2022-10-29 14:58:01.689218+00:00</dumped>
   </meta>
-  <image id="0" name="0462.png" width="2040" height="1356">
-    <box label="camel" occluded="0" source="manual" xtl="102.90" ytl="184.30" xbr="1046.05" ybr="996.90" z_order="0">
-    </box>
-    <box label="camel" occluded="0" source="manual" xtl="1302.20" ytl="420.90" xbr="1953.31" ybr="1040.99" z_order="0">
-    </box>
-  </image>
-  <image id="1" name="0896.png" width="2040" height="1356">
-    <box label="bird" occluded="0" source="manual" xtl="1317.20" ytl="588.60" xbr="1806.73" ybr="913.79" z_order="0">
-    </box>
-    <box label="bird" occluded="0" source="manual" xtl="685.43" ytl="626.53" xbr="1334.80" ybr="1261.33" z_order="0">
-    </box>
-    <box label="bird" occluded="0" source="manual" xtl="582.60" ytl="151.68" xbr="1109.69" ybr="603.70" z_order="0">
-    </box>
-    <box label="bird" occluded="0" source="manual" xtl="187.70" ytl="329.54" xbr="866.60" ybr="868.00" z_order="0">
-    </box>
-    <box label="bird" occluded="0" source="manual" xtl="895.90" ytl="515.60" xbr="1367.50" ybr="771.75" z_order="0">
-    </box>
-    <box label="bird" occluded="0" source="manual" xtl="207.33" ytl="912.10" xbr="721.33" ybr="1280.90" z_order="0">
+  <image id="0" name="dog1.jpeg" width="564" height="812">
+    <box label="nariz" occluded="0" source="manual" xtl="230" ytl="210" xbr="305" ybr="275" z_order="0">
     </box>
   </image>
 </annotations>
